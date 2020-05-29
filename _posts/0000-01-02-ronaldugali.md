@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I like big butts and I cannot lie!
 Use the left arrow to go back!
